@@ -1,12 +1,31 @@
-# Pig Game
-This game is created using HTML, CSS, and vanilla JavaScript.
+🎲 Pig Game
 
-# How to play
+A simple dice game built with HTML, CSS, and vanilla JavaScript.
 
-The main objective of this game is that the first player has to reach a total score of 100 or more. In each turn, a player repeatedly rolls a die until dice shows 1  or the player decides to "hold" and end their turn.
+🕹️ How to Play
 
-If the player rolls a 1, their turn ends and they receive no points for the turn. If the player rolls any other number, it is added to their turn total and they can choose to either roll again or hold. If they choose to hold, their turn total is added to their score, and the turn ends. 
+The goal is to be the first player to reach 100 points or more.
 
-# How to run this game
+On each turn, a player can:
 
-Just open index.html file in the web browser.
+Roll the die
+
+If the die shows 1, the turn ends and no points are added.
+
+If the die shows 2–6, that value is added to the player’s turn total.
+
+Hold
+
+Add the turn total to the player’s overall score.
+
+End the turn and pass play to the next player.
+
+⚠️ Rolling a 1 means losing all points accumulated during that turn!
+
+🚀 How to Run
+
+Clone or download the project.
+
+Open the index.html file.
+
+Start playing! 🎉
